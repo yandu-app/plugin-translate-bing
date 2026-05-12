@@ -16,7 +16,7 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@yandu/types": "^0.0.1",
+    "@yandu/types": "*",
     "typescript": "^5.6.0"
   },
   "publishConfig": {
