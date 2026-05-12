@@ -1,5 +1,5 @@
 {
-  "name": "@yandu/plugin-translate-bing",
+  "name": "yandu-plugin-translate-bing",
   "version": "1.0.0",
   "description": "Yandu plugin: Bing Translator",
   "type": "module",
