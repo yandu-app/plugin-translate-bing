@@ -1,11 +1,11 @@
-# yandu-plugin-translate-bing
+# @yandu/plugin-translate-bing
 
 Yandu plugin for Bing Translator.
 
 ## Install
 
 ```bash
-npm install yandu-plugin-translate-bing
+npm install @yandu/plugin-translate-bing
 ```
 
 ## Capability
